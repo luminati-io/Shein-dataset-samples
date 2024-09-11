@@ -40,7 +40,7 @@ A Shein dataset sample of over 1000 products. Dataset was extracted using the <b
 And a lot more.
 
 This is a sample subset which is derived from the "Shein Products (public data)"
-dataset which includes more than <b>7,100,000 companies</b>.
+dataset which includes more than <b>32,800,000 products</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
