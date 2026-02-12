@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Shein products</h2>
 
-![Shein dataset header](https://github.com/luminati-io/Shein-dataset-samples/blob/main/shein-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/shein">
+   <img src="https://github.com/luminati-io/Shein-dataset-samples/blob/main/shein-datasets.png" alt="shein datasets" />
+</a>
 
 A Shein dataset sample of over 1000 products. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -44,13 +46,17 @@ dataset which includes more than <b>32,800,000 products</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, shein S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full Shein dataset](https://brightdata.com/products/datasets/shein)</b>.
+
+<a href="https://brightdata.com/products/datasets/shein">
+   <img src="https://github.com/luminati-io/Shein-dataset-samples/blob/main/dataset-promotions.png" alt="shein datasets" />
+</a>
 
 <h2>What are the Shein datasets use cases?</h2>
 
